@@ -1,2 +1,5 @@
 # hello-world
-My first GitHub repository
+My first GitHub repository.
+Это мой учебный репозиторий.
+С его помощью я учусть, как работать с GitHub.
+Моей целью является обучение работе с кодом для анализа данных.
